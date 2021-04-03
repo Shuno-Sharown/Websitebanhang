@@ -2,6 +2,7 @@
     require_once("entities/product.class.php");
     require_once("entities/category.class.php");
 ?>
+//add de tao conflict ne nhe
 <?php
     include_once("header.php");
     if(!isset($_GET["cateid"])){
