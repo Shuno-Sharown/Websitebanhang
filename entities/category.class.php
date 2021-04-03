@@ -1,6 +1,6 @@
 <?php 
 require_once("config/db.class.php");
-
+//comment này để hỗ trợ làm bài thực hành git mà thoi
 class Category{
     public $cateID;
     public $categoryName;
